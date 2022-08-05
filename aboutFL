@@ -1,0 +1,121 @@
+[
+    {
+      "id": 1,
+      "name": "FL 1",
+      "username": "FL1",
+      "price": "5€",
+      "tags": {
+        "width": "1",
+        "height": "3",
+        "length": "5",
+        "weight": "20"
+      },
+      "website": "fatlayers.com/hook",
+      "company": {
+        "name": "Fat Layers",
+        "catchPhrase": "hook everything on me"
+      }
+    },
+    {
+      "id": 2,
+      "name": "FL 2",
+      "username": "FL2",
+      "price": "1€",
+      "tags": {
+        "width": "2",
+        "height": "2",
+        "length": "5",
+        "weight": "5"
+      },
+      "website": "fatlayers.com/pegboardhook",
+      "company": {
+        "name": "Fat Layers",
+        "catchPhrase": "peg everything on me"
+      }
+    },
+    {
+      "id": 3,
+      "name": "FLF 3",
+      "username": "FL3",
+      "price": "10€",
+      "tags": {
+        "width": "20",
+        "height": "10",
+        "length": "40",
+        "weight": "120"
+      },
+      "website": "fatlayers.com/holder",
+      "company": {
+        "name": "Fat Layers",
+        "catchPhrase": "i hold everything"
+      }
+    },
+    {
+      "id": 4,
+      "name": "FL 4",
+      "username": "FL4",
+      "price": "30€",
+      "tags": {
+        "width": "45",
+        "height": "56",
+        "length": "20",
+        "weight": "250"
+      },
+      "website": "fatlayers.com/crane",
+      "company": {
+        "name": "Fat Layers",
+        "catchPhrase": "i lift a lot"
+      }
+    },
+    {
+      "id": 5,
+      "name": "FL 5",
+      "username": "FL5",
+      "price": "5€",
+      "tags": {
+        "width": "6",
+        "height": "4",
+        "length": "20",
+        "weight": "16"
+      },
+      "website": "fatlayers.com/wrench",
+      "company": {
+        "name": "Fat Layers",
+        "catchPhrase": "I am a waste of time"
+      }
+    },
+    {
+      "id": 6,
+      "name": "FL 6",
+      "username": "FL 7",
+      "price": "50€",
+      "tags": {
+        "width": "66",
+        "height": "126",
+        "length": "80",
+        "weight": "700"
+      },
+      "website": "fatlayers.com/mount",
+      "company": {
+        "name": "Fat Layers",
+        "catchPhrase": "I am great at mounting"
+      }
+    },
+    {
+      "id": 7,
+      "name": "FL 7",
+      "username": "FL7",
+      "price": "700000000€",
+      "tags": {
+        "width": "8888880",
+        "height": "564",
+        "length": "545",
+        "weight": "6643"
+      },
+      "website": "fatlayers.com/allenholder",
+      "company": {
+        "name": "Fat Layers",
+        "catchPhrase": "Do you need me to hold your allen keys_"
+      }
+    }
+]
